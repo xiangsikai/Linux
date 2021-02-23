@@ -1,0 +1,1 @@
+mv RPM-GPG-KEY-mysql /etc/pki/rpm-gpg/

@@ -1,0 +1,2 @@
+mv RPM-GPG-KEY-ZABBIX-A14FE591 /etc/pki/rpm-gpg/
+mv RPM-GPG-KEY-ZABBIX /etc/pki/rpm-gpg/
